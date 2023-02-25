@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #3498db;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+  background-color: #eee;
+  border: 2px solid black;
+}
+
+#info {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center;
+  font-size: 18px;
+}
